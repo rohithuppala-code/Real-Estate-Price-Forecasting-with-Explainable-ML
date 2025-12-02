@@ -28,7 +28,7 @@ A simple full‑stack app for estimating house prices using a trained machine‑
 4. The API will be available at `http://localhost:8000`.
 
 ### 2) Frontend
-After running the backend server split the terminal and run the following commands:
+After running the backend server split the terminal in 'frontend' and run the following commands:
 1. From the project root, install dependencies:
    - `npm install`
 2. Start the dev server:
