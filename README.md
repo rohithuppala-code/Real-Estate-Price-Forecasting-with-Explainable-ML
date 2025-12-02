@@ -1,6 +1,6 @@
 # Real-Estate Price Forecasting with Explainable ML
 
-A simple full‑stack app for estimating house prices using a trained machine‑learning pipeline. The frontend is built with React (Vite + Tailwind), and the backend uses FastAPI to serve model predictions and metadata for dropdowns.
+A full‑stack app for estimating Estate prices using a trained machine‑learning pipeline. The frontend is built with React (Vite + Tailwind), and the backend uses FastAPI to serve model predictions and metadata for dropdowns.
 
 ## Features
 - User‑friendly dropdowns for `Neighborhood`, `Exterior`, and `Kitchen Quality`
