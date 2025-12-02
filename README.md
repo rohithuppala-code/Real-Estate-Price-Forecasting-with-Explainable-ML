@@ -38,12 +38,14 @@ After running the backend server split the terminal and run the following comman
 ## Project Structure
 ```
 Real-Estate Price Forecasting with Explainable ML/
+project-root/
 ├── backend/            # FastAPI app, model pipeline, metadata
 ├── model_notebook/     # Jupyter notebook used to train/save model
-├── src/                # React app source
-├── App.jsx          # Frontend entry
+├── frontend/
+│   ├── src/            # React app source
+│   └── App.jsx         # Frontend entry
 └── README.md
-```
+
 
 ## Training / Updating the Model
 - The notebook `model_notebook/house_price_model.ipynb` trains the pipeline and saves:
