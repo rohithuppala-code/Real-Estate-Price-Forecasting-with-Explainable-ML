@@ -1,0 +1,62 @@
+{
+  "Neighborhood": {
+    "Blmngtn": "Bloomington Heights",
+    "Blueste": "Bluestem",
+    "BrDale": "Brookdale",
+    "BrkSide": "Brookside",
+    "ClearCr": "Clear Creek",
+    "CollgCr": "College Creek",
+    "Crawfor": "Crawford",
+    "Edwards": "Edwards",
+    "Gilbert": "Gilbert",
+    "IDOTRR": "Iowa DOT and Railroad",
+    "MeadowV": "Meadow Village",
+    "Mitchel": "Mitchell",
+    "NAmes": "North Ames",
+    "NPkVill": "Northpark Villa",
+    "NWAmes": "Northwest Ames",
+    "NoRidge": "Northridge",
+    "NridgHt": "Northridge Heights",
+    "OldTown": "Old Town",
+    "SWISU": "South & West of ISU",
+    "Sawyer": "Sawyer",
+    "SawyerW": "Sawyer West",
+    "Somerst": "Somerset",
+    "StoneBr": "Stone Brook",
+    "Timber": "Timberland",
+    "Veenker": "Veenker"
+  },
+  "HouseStyle": {
+    "1.5Fin": "1.5 Story (Finished)",
+    "1.5Unf": "1.5 Story (Unfinished)",
+    "1Story": "1 Story",
+    "2.5Fin": "2.5 Story (Finished)",
+    "2.5Unf": "2.5 Story (Unfinished)",
+    "2Story": "2 Story",
+    "SFoyer": "Split Foyer",
+    "SLvl": "Split Level"
+  },
+  "Exterior": {
+    "'Wd Sdng'": "Wood Siding",
+    "AsbShng": "Asbestos Shingles",
+    "AsphShn": "Asphalt Shingles",
+    "BrkComm": "Brick Common",
+    "BrkFace": "Brick Face",
+    "CBlock": "Cinder Block",
+    "CemntBd": "Cement Board",
+    "HdBoard": "Hard Board",
+    "ImStucc": "Imitation Stucco",
+    "MetalSd": "Metal Siding",
+    "Plywood": "Plywood",
+    "Stone": "Stone",
+    "Stucco": "Stucco",
+    "VinylSd": "Vinyl Siding",
+    "WdShing": "Wood Shingles"
+  },
+  "KitchenQuality": {
+    "Ex": "Excellent",
+    "Fa": "Fair",
+    "Gd": "Good",
+    "TA": "Typical/Average"
+  }
+}
